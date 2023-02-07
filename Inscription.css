@@ -1,0 +1,15 @@
+p
+{
+	font-size : 30px;
+	position : relative;
+	font-weight: 20px;
+	left : 650px;
+}
+fieldset
+{
+	background-color : green;
+	width : 400px;
+	position : relative;
+	left : 650px;
+	top : 100px;
+}
