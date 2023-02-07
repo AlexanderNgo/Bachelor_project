@@ -1,0 +1,43 @@
+form
+{
+	width : 600px;
+	height : 200px;
+	position : relative;
+	top : 100px;
+	left : 550px;
+	color : blue;
+	padding-bottom: 300px;
+
+}
+header p 
+{
+	font-size : 30px;
+	position : relative;
+	left : 650px;
+}
+fieldset
+{
+	height : 50px;
+	position : relative;
+	bottom : 400px;
+}
+.decaler
+{
+	position : relative;
+	left : 1550px;
+	bottom : 50px;
+}
+a 
+{
+	color : blue;
+}
+nav
+{
+	background-color : blue;
+	width :300px;
+	height: 500px;
+}
+ul
+{
+	font-size : 25px;
+}
