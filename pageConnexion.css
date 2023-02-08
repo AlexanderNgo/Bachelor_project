@@ -1,28 +1,33 @@
 body
 {
 	
-	background-image : url("https://previews.123rf.com/images/antishock/antishock1408/antishock140800401/30835507-ic%C3%B4ne-connexion-logo-de-l-entreprise-concept-d-entreprise.jpg");
+	#background-image : url("https://previews.123rf.com/images/antishock/antishock1408/antishock140800401/30835507-ic%C3%B4ne-connexion-logo-de-l-entreprise-concept-d-entreprise.jpg");
 	background-image : no-repeat;
 }
 form
 {
 	/*border-style : groove;*/
 	background-color: white;
-	width : 400px;
-	height : 280px;
+	width : 350px;
+	#height : 280px;
 	position : relative;
 	left : 650px;
-	top : 200px;
+	top : 100px;
 	margin-bottom: 500px;
 }
 fieldset
 {
-	height : 550px;
+	height : 300px;
 }
 h1
 {
 	font-size : 55px;
 	font-weight : 20px;
 	position : relative;
-	left : 670px;
+	left : 610px;
+}
+#mdp,#identifiant
+{
+	width : 250px;
+	height : 20px;
 }
