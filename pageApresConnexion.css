@@ -1,3 +1,7 @@
+body
+{
+	background-color : skyblue;
+}
 form
 {
 	width : 600px;
@@ -9,6 +13,10 @@ form
 	padding-bottom: 300px;
 
 }
+header 
+{
+	background-color : white;
+}
 header p 
 {
 	font-size : 30px;
@@ -17,14 +25,20 @@ header p
 }
 fieldset
 {
-	height : 50px;
+	height : 500px;
 	position : relative;
 	bottom : 400px;
+}
+header button
+{
+	position : relative;
+	left : 1450px;
+	bottom : 40px;
 }
 .decaler
 {
 	position : relative;
-	left : 1550px;
+	left : 1250px;
 	bottom : 50px;
 }
 a 
@@ -33,11 +47,21 @@ a
 }
 nav
 {
-	background-color : blue;
+	background-color : white;
 	width :300px;
-	height: 500px;
+	height: 300px;
+	position : relative;
+	left : 1200px;
 }
 ul
 {
 	font-size : 25px;
+}
+.accordion
+{
+	position : relative;
+	left : 600px;
+	height : 300px;
+	width : 400px;
+	bottom : 220px;
 }
