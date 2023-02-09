@@ -15,53 +15,14 @@ form
 }
 header 
 {
-	background-color : white;
+	#background-color : blue;
+	background-image : url("https://www.cnil.fr/sites/default/files/styles/contenu-generique-visuel/public/thumbnails/image/ia_de_quoi_parle_t-on.png?itok=rYfJJY-7");
+	background-image : no-repeat;
 }
 header p 
 {
 	font-size : 30px;
 	position : relative;
 	left : 650px;
-}
-fieldset
-{
-	height : 500px;
-	position : relative;
-	bottom : 400px;
-}
-header button
-{
-	position : relative;
-	left : 1450px;
-	bottom : 40px;
-}
-.decaler
-{
-	position : relative;
-	left : 1250px;
-	bottom : 50px;
-}
-a 
-{
-	color : blue;
-}
-nav
-{
-	background-color : white;
-	width :300px;
-	height: 300px;
-	position : relative;
-	left : 1200px;
-}
-ul
-{
-	font-size : 25px;
-}
-.accordion
-{
-	position : relative;
-	left : 600px;
-	height : 300px;
-	width : 400px;
-	bottom : 220px;
+	top : 30px;
 }
